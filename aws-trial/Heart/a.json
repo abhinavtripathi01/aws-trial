@@ -1,0 +1,11 @@
+{
+    "2d2": {
+        "header 5": "2d5",
+        "header 3": "2d3",
+        "header 4": "2d4"
+    },
+    "1d2": {
+        "header 6": "1d6",
+        "header 4": "1d4"
+    }
+}
